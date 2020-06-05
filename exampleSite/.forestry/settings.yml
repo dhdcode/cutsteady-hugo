@@ -57,7 +57,7 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: https://res.cloudinary.com/cutsteady/image/upload
+upload_dir: https://res.cloudinary.com/cutsteady/image/upload/v1591333096
 public_path: https://res.cloudinary.com/cutsteady/image/upload/c_scale,w_auto:100,dpr_auto
 front_matter_path: https://res.cloudinary.com/cutsteady/image/upload
 use_front_matter_path: true
