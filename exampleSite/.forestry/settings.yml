@@ -57,10 +57,10 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: ''
-public_path: ''
+upload_dir: https://res.cloudinary.com/cutsteady/image/upload
+public_path: https://res.cloudinary.com/cutsteady/image/upload
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
