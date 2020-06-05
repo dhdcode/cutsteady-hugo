@@ -19,28 +19,14 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu]
-static = []
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "services"
-name = "Services"
-weight = "2"
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = "4"
-[[menu.main]]
-URL = "booking"
-name = "Book Me"
-weight = "5"
 [params]
 author = "#CutSteadyCLT"
 description = "Exclusive Barber Brand for Professionals Worldwide"
