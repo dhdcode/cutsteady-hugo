@@ -4,10 +4,10 @@ banner:
   bg_image_webp: https://res.cloudinary.com/cutsteady/image/upload/v1591336288/hero-area_jeillm.webp
   bg_image: https://res.cloudinary.com/cutsteady/image/upload/v1591335361/hero-area_h6acs0.jpg
   icon: ''
-  title: Experience the new reality
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Experience a true master
+  content: Original styles designed with an undeniable passion for the art of cutting
+    hair describes the ones only known by those who stumble upon their paths.
   button:
     enable: true
-    label: Explore Us
+    label: Learn More
     link: "#services"
