@@ -19,34 +19,24 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+static = []
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "About"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
-weight = 2
+name = "Services"
+weight = "2"
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
-weight = 8
+weight = "4"
 [params]
 author = "#CutSteadyCLT"
 description = "Exclusive Barber Brand for Professionals Worldwide"
