@@ -37,6 +37,10 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = "4"
+[[menu.main]]
+URL = "booking"
+name = "Book Me"
+weight = "5"
 [params]
 author = "#CutSteadyCLT"
 description = "Exclusive Barber Brand for Professionals Worldwide"
